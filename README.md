@@ -2,7 +2,7 @@
 
 reference https://www.kaggle.com/code/diamondsnake/generating-new-pokemon-gans    
 dataset  https://www.kaggle.com/datasets/andrewmvd/face-mask-detection
-video link 
+video link https://www.youtube.com/watch?v=6E8NouQUTIE
 
 <img src="https://github.com/RunqiZhao21031188/1/blob/main/%E4%B8%8B%E8%BD%BD%20(28).png" width="600px" height="300px" alt="lab00-01"/>
 <img src="https://github.com/RunqiZhao21031188/1/blob/main/%E4%B8%8B%E8%BD%BD%20(25).png" width="1000px" height="300px" alt="lab00-01"/>
